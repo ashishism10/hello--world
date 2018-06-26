@@ -2,3 +2,5 @@ Hi Alok 3
 Hi Tanay
 Hi Tanay again
 This is direct merge in master change:wq
+
+hi from ashish
